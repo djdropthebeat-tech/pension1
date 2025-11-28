@@ -2,7 +2,7 @@
   "name": "the-joeun-pension",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://djdropthebeat-tech.github.io/pension1/",
+  "homepage": "https://github.com/djdropthebeat-tech/pension1/",
   "type": "module",
   "scripts": {
     "dev": "vite",
